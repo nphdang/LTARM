@@ -1,0 +1,34 @@
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.Properties.Resources.resources
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csprojResolveAssemblyReference.cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.Properties.Resources.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csprojResolveAssemblyReference.cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csprojResolveAssemblyReference.cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.Properties.Resources.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.pdb
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.exe
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\bin\Release\FPGrowth-TARD.pdb
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.frmMain.resources
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth_TARD.Properties.Resources.resources
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csproj.GenerateResource.cache
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.csproj.CoreCompileInputs.cache
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.exe
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\FPGrowth-TARD\FPGrowth-TARD\obj\x86\Release\FPGrowth-TARD.pdb
