@@ -1,0 +1,48 @@
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\2015.07.01\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen\Dropbox\WithDang\comorbidity_analysis\source code\C# codes\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csprojResolveAssemblyReference.cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csprojResolveAssemblyReference.cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.Cache
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\ngdang\Dropbox\WithDang\comorbidity_analysis\source code\ESWA_2017\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.exe
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\bin\Release\Apriori-TARD.pdb
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.frmMain.resources
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori_TARD.Properties.Resources.resources
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.GenerateResource.cache
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.csproj.CoreCompileInputs.cache
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.exe
+C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\Apriori-TARD\Apriori-TARD\obj\x86\Release\Apriori-TARD.pdb
