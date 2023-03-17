@@ -52,3 +52,11 @@ C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\LTARM
 C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\LTARM\LTARM\obj\x86\Release\LTARM.exe
 C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\LTARM\LTARM\obj\x86\Release\LTARM.pdb
 C:\Users\dphngu\Dropbox\WithDang\comorbidity_analysis\source code\KBS_2018\LTARM\LTARM\obj\x86\Release\LTARM.csprojAssemblyReference.cache
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\bin\Release\LTARM.exe
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\bin\Release\LTARM.pdb
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.frmMain.resources
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.Properties.Resources.resources
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.csproj.GenerateResource.cache
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.csproj.CoreCompileInputs.cache
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.exe
+C:\Users\dphngu\Dropbox (Toby Playpad)\Github\LTARM\source_code\LTARM\LTARM\obj\x86\Release\LTARM.pdb

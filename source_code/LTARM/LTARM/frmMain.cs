@@ -53,6 +53,8 @@ namespace LTARM
             {
                 return a;
             }
+            // sort a
+            a1.Sort();
 
             int i = 0, j = 0;
             a2.Add(a1[a1.Count - 1] + 1);
